@@ -6,7 +6,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=DevOps+Engineer+%7C+Cloud+Enthusiast+%F0%9F%9A%80;Automation+Expert+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A7" alt="Typing Animation" />
 </h3>
-<img align="right" alt="Scripting" width="300" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmourad&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmourad" /> </p>
 
@@ -21,11 +21,7 @@
 - Expertise in **multi-cloud platforms** (AWS, Azure, GCP) and **container orchestration** (Docker, Kubernetes).  
 - Proven ability to build and manage **CI/CD pipelines**, reducing deployment time by 30%.  
 - Strong foundation in **Linux administration**, **scripting** (Python, Bash), and **automation tools** (Terraform, Ansible).  
-- A passion for **mentorship** and **knowledge sharing**, helping others achieve their technical and professional goals.  
-
-📜 **Certifications**:  
-- **Terraform Associate Certified**  
-- **AWS Cloud Practitioner Certified**  
+- A passion for **mentorship** and **knowledge sharing**, helping others achieve their technical and professional goals.    
 
 ---
 
@@ -81,3 +77,4 @@ I’m always open to discussing **DevOps**, **cloud computing**, and **automatio
 - **LeetCode**: [M_mourad](https://leetcode.com/u/M_mourad/)  
 - **Email**: mohamed0mourad@gmail.com  
 
+---
