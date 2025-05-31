@@ -1,16 +1,6 @@
 
-
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center">Hi 👋, I'm Mohamed Mourad from Egypt🇪🇬</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=DevOps+Engineer+%7C+Cloud+Architect+☁️;Infrastructure+as+Code+Advocate+🛠️;Automation+Enthusiast+🤖;Problem+Solver+🔍+%7C+Continuous+Learner+📚" alt="Typing Animation" />
-</h3>
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmourad&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmourad" /> </p>
-
----
+<h1 align="center">Hi there 👋 I'm Mohamed Mourad</h1>
+<h2 align="center">🚀 DevOps Engineer | Cloud Enthusiast ☁️</h2>
 
 ## **🚀 About Me**  
 👨‍💻 I’m a **DevOps Engineer** with a passion for building **scalable**, **secure**, and **efficient systems**.  
@@ -24,7 +14,14 @@
 - A passion for **mentorship** and **knowledge sharing**, helping others achieve their technical and professional goals.    
 
 ---
+## **💡 What I Do**  
+- **CI/CD Pipelines**: Build and manage pipelines for seamless deployments using **Jenkins**, **GitHub Actions**, and **ArgoCD**.  
+- **Infrastructure as Code (IaC)**: Automate infrastructure provisioning using **Terraform**, **Ansible**, and **CloudFormation**.  
+- **Containerization**: Orchestrate applications with **Docker** and **Kubernetes**, leveraging **Helm** for package management.  
+- **System Monitoring**: Ensure reliability and performance through **Prometheus**, **Grafana**, and **ELK Stack**.  
+- **Cloud Optimization**: Design and manage scalable, cost-efficient solutions on **AWS**, **Azure**, and **GCP**.  
 
+---
 ## **🛠️ DevOps Toolbox**  
 Here are the tools and technologies I work with:  
 
@@ -61,20 +58,41 @@ Here are the tools and technologies I work with:
 
 ---
 
-## **💡 What I Do**  
-- **CI/CD Pipelines**: Build and manage pipelines for seamless deployments using **Jenkins**, **GitHub Actions**, and **ArgoCD**.  
-- **Infrastructure as Code (IaC)**: Automate infrastructure provisioning using **Terraform**, **Ansible**, and **CloudFormation**.  
-- **Containerization**: Orchestrate applications with **Docker** and **Kubernetes**, leveraging **Helm** for package management.  
-- **System Monitoring**: Ensure reliability and performance through **Prometheus**, **Grafana**, and **ELK Stack**.  
-- **Cloud Optimization**: Design and manage scalable, cost-efficient solutions on **AWS**, **Azure**, and **GCP**.  
+### 🎓 Certifications
+- 🏅 Kubernetes and Cloud Native Associate (KCNA)
+- 🏅 HashiCorp Terraform Associate
+- 🏅 AWS Cloud Practitioner
+- 📚 GCP Associate Cloud Engineer *(in progress)*
 
 ---
 
-## **📫 Let’s Connect!**  
-I’m always open to discussing **DevOps**, **cloud computing**, and **automation**. Feel free to reach out for collaborations, mentorship, or just a chat about the latest in tech!  
-
-- **LinkedIn**: [Mohamed Mourad](https://www.linkedin.com/in/mohamed-0mourad/)  
-- **LeetCode**: [M_mourad](https://leetcode.com/u/M_mourad/)  
-- **Email**: mohamed0mourad@gmail.com  
+### 👨‍💻 Current Focus
+- 🌐 DevOps @ ITI – Cairo University
+- 🧪 Multi-cloud projects on AWS, GCP, and Azure
+- 🛠️ Advanced Kubernetes, GitOps, and Observability
+- 🧱 Building CI/CD pipelines using Jenkins & GitHub Actions
 
 ---
+
+### 📈 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed0Mourad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed0Mourad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed0Mourad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamed0Mourad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamed0Mourad&theme=github_dark&utcOffset=3)
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-0mourad)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Mohamed0Mourad)
+[![Credly](https://img.shields.io/badge/Credly-orange?logo=credly)](https://www.credly.com/users/mohmaed-mourad)
+
+---
+
+### 🐍 Watch my contributions get eaten by a snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
